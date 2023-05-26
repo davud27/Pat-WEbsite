@@ -1,0 +1,82 @@
+/*       Tags        */
+body {
+  margin: 0;
+  background-color: #faeee7;
+}
+h1 {
+  margin: 0px;
+}
+p {
+
+  font-family: "Kalam", cursive;
+  color: #594a4e;
+}
+
+/*       Classes        */
+
+/*       Ids        */
+#leftC {
+  background-color: #ffc6c7;
+  width: 25%;
+  position: fixed;
+  height: 100%;
+  margin-top: 0px;
+  overflow-wrap: break-word;
+  display: inline-block;
+}
+#rightC {
+    display: inline-block;
+    height: 100%;
+    position: fixed;
+    margin-left: 25%;
+    width: 75%;
+}
+#leftText{
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 40px;
+    line-height: 150%;
+}
+#some{
+    font-size: 40px;
+position: absolute;
+font-family: "Kalam", cursive;
+left: 35%;
+}
+#img1{
+height: 370px;
+width: 250px;
+position: absolute;
+right: 62%;
+bottom: 48%;
+}
+#img2{
+    height: 370px;
+    position: absolute;
+    right: 15%;
+    bottom: 48%;
+}
+#img3{
+    height: 370px;
+    position: absolute;
+    right: 38%;
+    bottom: 8%;
+}
+#heart1{
+    height: 370px;
+    position: absolute;
+    right: 66%;
+    bottom: 8%;
+}
+#heart2{
+    height: 370px;
+    position: absolute;
+    right: 5%;
+    bottom: 8%;
+}
+#heart3{
+    height: 350px;
+    position: absolute;
+    right: 37%;
+    bottom: 48%;
+}
